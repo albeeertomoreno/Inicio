@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @albeeertomoreno
-- 👀 I’m interested in AI
+- 👀 I am a physicist interested in AI
 - 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me albertotorreira99@gmail.com
 
 <!---
 albeeertomoreno/albeeertomoreno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
